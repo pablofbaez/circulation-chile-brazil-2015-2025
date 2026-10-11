@@ -1,0 +1,36 @@
+ Morbidade Hospitalar do SUS - por local de residência - Brasil
+Internações por Lista Morb  CID-10 e Faixa Etária 1
+Capítulo CID-10: IX.  Doenças do aparelho circulatório
+Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais
+Sexo: Masc
+Período:2015
+"Lista Morb  CID-10";"20 a 29 anos";"30 a 39 anos";"40 a 49 anos";"50 a 59 anos";"60 a 69 anos";"70 a 79 anos";"80 anos e mais";"Total"
+"09 Doenças do aparelho circulatório";13745;27650;58474;119391;152058;120614;65969;557901
+".. Febre reumática aguda";85;116;157;185;186;129;59;917
+".. Doença reumática crônica do coração";208;409;534;780;769;465;90;3255
+".. Hipertensão essencial (primária)";823;1778;3248;5502;6533;5808;3508;27200
+".. Outras doenças hipertensivas";345;615;1156;2023;2398;2225;1251;10013
+".. Infarto agudo do miocárdio";518;2134;7509;17811;19401;11762;4790;63925
+".. Outras doenças isquêmicas do coração";704;2375;9535;24762;30129;17864;5373;90742
+".. Embolia pulmonar";169;241;328;512;585;545;360;2740
+".. Transtornos de condução e arritmias cardíacas";1090;1525;2530;4825;7545;7843;5427;30785
+".. Insuficiência cardíaca";1217;3363;8273;19470;29051;28923;20186;110483
+".. Outras doenças do coração";849;1162;1985;3257;4142;3375;1767;16537
+".. Hemorragia intracraniana";674;1071;1902;2940;2888;2219;1166;12860
+".. Infarto cerebral";122;297;709;1760;2725;2327;1316;9256
+".. Acid vascular cerebr não espec hemorrág ou isq";712;1999;5495;13319;20733;20058;13186;75502
+".. Outras doenças cerebrovasculares";332;457;718;1620;2252;1962;908;8249
+".. Arteroesclerose";85;185;584;1946;3494;2535;1180;10009
+".. Outras doenças vasculares periféricas";71;144;364;922;1544;1157;534;4736
+".. Embolia e trombose arteriais";257;364;741;2254;3683;2895;1512;11706
+".. Outras doenças das artérias arteríolas e capil";1130;1417;2051;3889;5156;3830;1440;18913
+".. Flebite tromboflebite embolia e trombose venosa";814;1703;2655;3424;3467;2399;1172;15634
+".. Veias varicosas das extremidades inferiores";1132;2700;4224;4879;3358;1484;499;18276
+".. Hemorróidas";1083;2212;3009;2636;1472;481;72;10965
+".. Outras doenças do aparelho circulatório";1325;1383;767;675;547;328;173;5198
+"Total";13745;27650;58474;119391;152058;120614;65969;557901
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a atualização.
+ 

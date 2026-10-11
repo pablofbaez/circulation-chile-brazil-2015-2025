@@ -1,0 +1,9 @@
+Variable,Chile study extract,Brazil study extract
+Principal diagnosis,ICD-10 code,DATASUS diagnostic category
+Sex and age group,Available jointly,Available jointly
+Calendar year,Available with age and sex,"Available jointly with age, sex, and diagnostic category"
+Residence,Region and municipality,Query restricted to Brazilian residents; no regional cells supplied
+Insurance,Available; used in supplementary adjustment,SUS-financed hospitalizations only
+Length of stay and discharge status,Available; not analyzed as outcomes,Not in the supplied tables; recorded in SIH/SUS
+Secondary diagnoses and comorbidities,No general comorbidity field in the supplied extract; DIAG2 is external cause,Not in the supplied tables; secondary-diagnosis fields exist in SIH/SUS
+Individual risk factors and clinical measurements,Not available for this analysis,Not available for this analysis

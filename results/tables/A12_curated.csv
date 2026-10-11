@@ -1,0 +1,10 @@
+Model and source,Age in source,Outcome scope
+Framingham general CVD [34],30–74,"Coronary, cerebrovascular, peripheral arterial disease and heart failure"
+Chilean Framingham adaptation [35],35–74,Coronary heart disease over 10 years
+SCORE2 [27],40–69,First fatal or nonfatal cardiovascular event
+PREVENT [33],30–79,Atherosclerotic CVD and heart failure; component equations
+QRISK3 [28],25–84,"Coronary heart disease, ischemic stroke and transient ischemic attack"
+Reynolds for women [29],≥45 in cohort,"Myocardial infarction, ischemic stroke, coronary revascularization and cardiovascular death"
+WHO 2019 [30],40–80 in derivation,Fatal and nonfatal myocardial infarction and stroke
+Globorisk 2017 [31],40–74,Fatal and nonfatal cardiovascular disease
+QThrombosis [36],25–84,Incident deep-vein thrombosis or pulmonary embolism

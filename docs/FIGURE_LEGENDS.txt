@@ -1,0 +1,17 @@
+Figure 1. Sex differences in venous-to-arterial diagnostic composition across adult age groups in Chile and Brazil, 2015-2025.
+
+Panels show venous diagnoses relative to (A) pooled arterial, (B) coronary, (C) cerebrovascular, and (D) other arterial diagnoses. Points are female-to-male case-case odds ratios (ORs); bars are nominal 95% log-Wald confidence intervals calculated from the four discharge counts in each age-by-country contrast. The dashed line denotes OR=1; the vertical axis is logarithmic. Chile and Brazil contributed 834,780 and 7,409,594 selected discharges, respectively; territory-specific sample sizes differ because the arterial reference changes. Exact ORs and intervals are in Appendix Tables A1-A4; underlying counts are in Table A20. Some intervals are narrower than the plotting symbols. No adjustment for multiple comparisons was applied. Intervals assume independent discharges and do not capture correlated readmissions, coverage, or coding uncertainty. Age groups are cross-sectional and do not follow individuals through life.
+
+Figure 2. Year-adjusted female-to-male discharge rate ratios by age group in Chile, 2015–2025.
+
+Figure 2. Year-adjusted female-to-male discharge rate ratios by age group in Chile, 2015–2025.
+
+Panels show (A) selected venous diagnoses (I26, I80–I82) and (B) pooled arterial diagnoses. Points are year-adjusted female-to-male rate ratios; bars are nominal 95% quasi-Poisson confidence intervals. Separate models for each age band and diagnostic group included categorical year and log-population offsets. Pearson dispersion was bounded below at 1; intervals used t with 10 residual degrees of freedom. Each model used 22 sex-by-year cells. Total counts were 109,820 venous and 724,960 arterial discharges. The dashed line denotes RR=1; the horizontal axis is logarithmic. Intervals do not fully account for correlated readmissions, serial dependence, or population-estimation uncertainty. Exact estimates are in Appendix Table A11.
+
+Supplemental material
+
+Figure S1. Age-specific venous proportions among selected vascular discharges in Chile and Brazil, 2015–2025.
+
+Panels show (A) Chile and (B) Brazil. Points represent selected venous discharges divided by selected venous plus pooled arterial discharges within each age-by-sex stratum. Bars show nominal 95% Wilson binomial confidence intervals; some are narrower than the plotting symbols. These are unstandardized within-age proportions, not population hospitalization rates. Total selected samples comprise 834,780 Chilean and 7,409,594 Brazilian discharges; exact stratum counts are in Table A20. Intervals assume independent discharges, are not adjusted for multiple comparisons, and do not account for correlated readmissions, masking, coding, or incomplete coverage.
+
+Table A1. Venous-to-arterial odds ratio by age group, Chile (detailed values underlying Figure 1)

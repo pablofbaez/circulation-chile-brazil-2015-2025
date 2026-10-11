@@ -1,0 +1,6 @@
+Category,Chile - ICD-10 codes,Brazil - DATASUS categories (Lista de Morbidade)
+Coronary,I20-I25,"Acute myocardial infarction (I21-I22); other ischemic heart diseases (I20, I23-I25)"
+Cerebrovascular,I60-I69,Intracranial hemorrhage (I60-I62); cerebral infarction (I63); unspecified stroke (I64); other cerebrovascular diseases (I65-I69)
+Other arterial disease,I70-I79,"Atherosclerosis (I70); other peripheral vascular diseases (I73); arterial embolism/thrombosis (I74); other diseases of arteries, arterioles and capillaries (I71-I72, I77-I79)"
+Selected venous diagnoses,"I26, I80-I82","Pulmonary embolism (I26); phlebitis, thrombophlebitis, venous embolism and thrombosis (I80-I82)"
+Varicose veins (sensitivity analysis),I83,Varicose veins of lower extremities (I83)

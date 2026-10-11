@@ -1,0 +1,61 @@
+Methods
+
+Reporting was guided by the RECORD statement, an extension of STROBE for routinely collected health data [18]. Analyses were tailored to the available data: individual discharge records in Chile and aggregated diagnostic counts in Brazil.
+
+Design and data sources
+
+Chile’s DEIS and Brazil’s SIH/SUS provide administrative hospital data with different coverage. Chile contributed individual discharge records; Brazil contributed aggregate counts jointly classified by principal-diagnosis category, sex, age group, and year. SIH/SUS captures SUS-financed hospitalizations rather than all hospitalizations in Brazil [19, 20]. Variable availability is summarized in Appendix Table A15. Individual comorbidity and risk-factor adjustment was not possible in the cross-country comparison.
+
+Chile
+
+We analyzed publicly released, de-identified annual discharge files from the Department of Health Statistics and Information (DEIS), Ministry of Health of Chile, for 2015–2025 [19]. The unit of registration is a discharge. The reporting system includes public and private establishments. All eleven annual files were processed using a common diagnostic and eligibility algorithm; record multiplicity was retained, and source-file hashes and exclusion counts were recorded.
+
+Brazil
+
+Brazilian hospitalization counts were downloaded on September 20, 2026, from the residence-based national TabNet table of the Hospital Information System of the Unified Health System (SIH/SUS), for 2015–2025. Twenty-two exports, one for each sex and year, supplied joint counts by seven adult age groups and diagnostic category. Counts were summed across non-overlapping years, and category totals were checked against the sums across age groups. SIH/SUS captures SUS-financed hospitalizations in public and contracted private facilities; admissions financed entirely outside SUS are not captured [20].
+
+Population
+
+The Chilean annual source files had no age restriction. Records with a principal ICD-10 diagnosis in I00-I99 were retained, then records with unavailable or ineligible age and those without recorded male or female sex were excluded (Appendix Table A16; Appendix Table A8). For Brazil, the source query was restricted to ages ≥20 years. Both analytic datasets therefore concern adults aged ≥20 years with selected principal circulatory diagnoses.
+
+For Chile, the unit of analysis is the discharge record, not the patient; the database does not allow linkage of readmissions or multiple episodes for the same individual. Municipality and region correspond to the patient's place of residence. For Brazil, the unit of analysis is the aggregated discharge count within each diagnostic category, sex, and age stratum; individual-level linkage is not possible from TabNet output. In the supplied DEIS dictionary, age refers to age at admission and calendar year to discharge year. DIAG2 denotes external cause and was not interpreted as a general secondary-diagnosis or comorbidity field.
+
+Diagnostic classification
+
+Selected venous diagnoses comprised pulmonary embolism (I26), phlebitis and thrombophlebitis, portal vein thrombosis, and other venous embolism and thrombosis (I80–I82). Comparators were coronary (I20–I25), cerebrovascular (I60–I69), and other arterial diagnoses (I70–I79), analyzed separately and combined (Appendix Table A14). The venous-versus-pooled-arterial contrast was the primary summary; territory-specific and age-specific estimates characterized its distribution. Population-denominated rate analyses in Chile were exploratory.
+
+Both categories group clinically heterogeneous entities. The arterial category includes acute and chronic conditions. The selected venous category (I26, I80-I82) includes pulmonary embolism, phlebitis and thrombophlebitis, portal vein thrombosis, and other venous embolism and thrombosis; it is not synonymous with acute deep-vein thrombosis and pulmonary embolism. Restricted diagnostic sensitivity analyses are reported in Appendix Table A19, and the full Chapter-IX composition is described in Appendix Table A17.
+
+Varicose veins of the lower extremities (I83) were analyzed as an addition to the venous category in sensitivity analyses in both countries. This assessed how including chronic varicose disease affected the diagnostic balance. The main arterial category retains chronic diagnoses that may also generate elective hospitalizations; excluding I83 does not make the main contrast a comparison of exclusively acute conditions. Additional Chilean sensitivities used narrower diagnostic code sets (Appendix Table A19).
+
+Age harmonization
+
+Chile used five-year age bands with an open interval at 85+ in 2021 and ten-year bands with an open interval at 90+ in other years. Bands were collapsed using their lower bounds to 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, and ≥80 years; individual ages were not reconstructed. The 2021 numeric sex codes were harmonized with the male/female labels in other years. Brazil provided the same seven adult age strata.
+
+Comparability across countries
+
+The case–case OR compares the female venous-to-arterial count ratio with the corresponding male ratio. Both individual records and aggregate data provide the four cell counts required within each age stratum. We used the same seven age bands, Mantel–Haenszel estimator, and Robins–Breslow–Greenland variance in both countries. Estimates and confidence limits were verified by independent scalar calculations (Appendix Table A10). This establishes computational consistency while allowing differences in hospital coverage, admission pathways, and coding.
+
+Brazilian diagnoses were mapped from DATASUS’s predefined Lista de Morbidade CID-10 categories to the selected groups (Appendix Table A14). The main analysis concerns these selected diagnoses and does not represent the composition of all circulatory hospitalizations.
+
+Population denominators for the Chilean extension
+
+National midyear population estimates by sex and single year of age were obtained from the Instituto Nacional de Estadísticas, 1992–2070 series, base 2024 [21]. June 30 populations for 2015–2025 were aggregated to the seven age bands and matched to discharge year and sex. Rates were expressed per 100,000 population-years. Period-pooled rates divided summed discharges by summed annual midyear populations. They measure hospital use rather than first-event incidence; population estimates were treated as fixed.
+
+Statistical analysis
+
+The case-case odds ratio measures diagnostic composition among selected vascular discharges. It does not require population denominators and does not estimate the probability of hospitalization in the population. All principal cross-country comparisons use the same age-stratified estimator; the additional Chilean multivariable model addresses a separate adjustment set. An OR above 1 indicates that the venous-to-arterial count ratio is higher in women than in men within the selected discharge sample.
+
+For Chile, principal-diagnosis codes were normalized to uppercase. Age-specific case-case ORs used log-Wald 95% confidence intervals; age-adjusted Mantel-Haenszel ORs used the Robins-Breslow-Greenland variance [22]. A separate logistic model estimated the female-to-male OR for venous (1) versus arterial (0) discharge, adjusting for categorical age band, calendar year, region, and insurance scheme. Region included sixteen named regions and one unknown category. All 834,780 contrast records entered the model. Each sex-by-covariate interaction was assessed separately by a likelihood-ratio test against the same main-effects model; supplementary results are reported in Appendix Table A18.
+
+Annual case–case ORs were adjusted for the same seven age strata using the Mantel–Haenszel method in both countries. These estimates describe calendar-year variation. A Brazilian sensitivity analysis omitted 2023 and recalculated the overall age-adjusted OR.
+
+Within each country, venous fractions were directly standardized to the combined female and male age distribution of its own contrast sample. These weights were identical between sexes within a country but not necessarily between countries. Absolute differences were calculated before rounding. Summary ORs were interpreted alongside age-specific estimates because of heterogeneity. P values and confidence intervals are nominal, without multiplicity adjustment. Age-specific venous proportions are displayed with Wilson 95% confidence intervals based on venous and total selected-discharge counts. These intervals assume independent discharges; they do not quantify coding, coverage, masking, or repeat-admission uncertainty. No intervals are assigned to the observed counts in the descriptive tables.
+
+For Chilean population rates, separate log-link Poisson mean models were fitted for each diagnostic group and age band, with sex, categorical calendar year, and log population as an offset. Each full-period model included 22 sex-by-year cells, 12 parameters, and 10 residual degrees of freedom, estimating a female-to-male rate ratio common across years within that band. To allow extra-Poisson variation, covariance was scaled by the Pearson dispersion, bounded below at one; nominal 95% confidence intervals used the t distribution with 10 degrees of freedom. Estimates were independently checked using the conditional binomial score within year strata.
+
+Rate sensitivities separated pulmonary embolism and I80–I82 diagnoses, added I83 to the venous category, and excluded 2025 (Appendix Tables A7 and A9). All eleven years were included in the main analysis. For jointly masked records, extreme marginal bounds assigned all otherwise unallocated selected venous records to one sex in one age band at a time (Appendix Table A13). These hypothetical bounds used pooled rates; they are neither imputations nor confidence intervals and cannot hold simultaneously across age groups.
+
+Analyses used Python with pandas, numpy, scipy, and matplotlib. Source-file hashes, diagnostic transformations, aggregate counts, model outputs, and numerical checks were retained in the reproducibility materials.
+
+Generative AI assistance was used for data processing, analytical code development, statistical verification, and exploratory rate analyses, as detailed in the declaration below.

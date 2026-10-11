@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository release."
+type: software
+title: "Reproducibility package: Sex Differences in the Arterial and Venous Composition of Hospitalizations Across Adulthood in Chile and Brazil, 2015-2025"
+version: "1.0.0"
+license: MIT
+# Complete after the first release:
+# date-released: "YYYY-MM-DD"
+# doi: 10.5281/zenodo.XXXXXXX
+# repository-code: "https://github.com/USER/REPOSITORY"
+authors:
+  - family-names: "Carrasco-Wong"
+    given-names: "Ivo"
+  - family-names: "Bertini"
+    given-names: "Ayleen"
+  - family-names: "Baez"
+    given-names: "Pablo"
+  - family-names: "Amador"
+    given-names: "Cristian"
+  - family-names: "Gutiérrez"
+    given-names: "Jaime"
+  - family-names: "Rotarou"
+    given-names: "Elena"
+  - family-names: "Díaz-Navarro"
+    given-names: "Rienzi"
+  - family-names: "Illanes"
+    given-names: "Sebastián E."
+  - family-names: "Chiarello"
+    given-names: "Delia I."
+keywords:
+  - venous thromboembolism
+  - cardiovascular disease
+  - sex differences
+  - hospitalization
+  - Chile
+  - Brazil
+preferred-citation:
+  type: article
+  title: "Sex Differences in the Arterial and Venous Composition of Hospitalizations Across Adulthood in Chile and Brazil, 2015-2025"
+  year: 2026
+  # Complete once the article is accepted:
+  # journal: "JOURNAL NAME"
+  # volume: "X"
+  # start: "X"
+  # doi: 10.XXXX/XXXXX
+  authors:
+    - family-names: "Carrasco-Wong"
+      given-names: "Ivo"
+    - family-names: "Bertini"
+      given-names: "Ayleen"
+    - family-names: "Baez"
+      given-names: "Pablo"
+    - family-names: "Amador"
+      given-names: "Cristian"
+    - family-names: "Gutiérrez"
+      given-names: "Jaime"
+    - family-names: "Rotarou"
+      given-names: "Elena"
+    - family-names: "Díaz-Navarro"
+      given-names: "Rienzi"
+    - family-names: "Illanes"
+      given-names: "Sebastián E."
+    - family-names: "Chiarello"
+      given-names: "Delia I."

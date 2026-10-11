@@ -1,0 +1,24 @@
+{
+  "population_source": "denominadores_INE_2015_2025.csv",
+  "population_sha256": "d504210965f6ee21efbc30ce30c49e1c75d7954952d431e47bb9d45ca133cc99",
+  "counts_sha256": "4fcbdb07c63b20dc34d1d88750c0cade279036e27116d34ebe159060252b9d5e",
+  "reference_date": "30 June each year",
+  "years": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "population_cells": 154,
+  "model_count": 126,
+  "method": "Poisson sex + categorical year, separate model per age and outcome; log population offset; quasi-Poisson Pearson dispersion floored at 1 with t CI; unscaled Poisson CI retained for audit; exclude-2025 sensitivity",
+  "standard": "Chile adult both-sex population, 30 June 2015, seven age bands",
+  "scope": "Discharges, not incident persons. No correction for suppressed records or repeated admissions; population projection treated fixed."
+}

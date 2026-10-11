@@ -1,0 +1,797 @@
+{
+  "files": [
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2015/EGRE_DATOS_ABIERTOS_2015.csv",
+      "sha256": "852151fc586c2f88383dcb402353f12fe4b579693ff00561e9d1e8f68b3c634a",
+      "source_bytes": 308046896
+    },
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2016/EGRE_DATOS_ABIERTOS_2016.csv",
+      "sha256": "3a9f24946d9f0af137655c942f47baafbb4a507000e45ea0c1db66edb187ba81",
+      "source_bytes": 302638677
+    },
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2017/EGRE_DATOS_ABIERTOS_2017.csv",
+      "sha256": "faf19e051c38276cad6ff5bc52e272e79cec1287df3d99ff389809d0e2ced2e0",
+      "source_bytes": 302376061
+    },
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2018/EGRE_DATOS_ABIERTOS_2018.csv",
+      "sha256": "b2094875cc6d6184c556177fb006f48e9826e1bdad8e8b1b67b0aa1d1e5c36ee",
+      "source_bytes": 308173851
+    },
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2019/EGRE_DATOS_ABIERTOS_2019.csv",
+      "sha256": "2b8f91139bf95668025b762f625efca1446f76eda02dc348310a0b7635aa2b25",
+      "source_bytes": 308548956
+    },
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2020/EGRE_DATOS_ABIERTOS_2020.csv",
+      "sha256": "7a26483c6853a3820eb95c6f9e76dab6023f82079caf6a5c688ff410f11928ea",
+      "source_bytes": 245975785
+    },
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2021/EGR_DATOS_ABIERTO_2021.csv",
+      "sha256": "b3cd656e9e1d7c2038325b68183945b53bee8adf0f27dd19ae1b71ecf69c93da",
+      "source_bytes": 219500927
+    },
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2022/EGRE_DATOS_ABIERTOS_2022.csv",
+      "sha256": "92511395bcf5ba42f36f97b60252746cb6068919c8d9d50d7163cdbca0d8ffce",
+      "source_bytes": 357942502
+    },
+    {
+      "country": "Chile",
+      "file": "CHILE/EGRESOS_2023 (1)/EGRESOS_2023.csv",
+      "sha256": "4b5d1d573254d2597d41c6ac953808281b92ea43d85e49a67f0d3393f21fe5de",
+      "source_bytes": 278312188
+    },
+    {
+      "country": "Chile",
+      "file": "EGR_DATOS_ABIERTO_2024(2).csv",
+      "sha256": "a050e14c74e4de14302e7f6213c240825bdfcdfa3e1f4fca48651c1ae8727243",
+      "source_bytes": 291175891
+    },
+    {
+      "country": "Chile",
+      "file": "EGR_DATOS_ABIERTO_2025(2).csv",
+      "sha256": "6bef9cbe3fde024d26c81df6ef18b6f4d54baccad936c3ec6e34bbab4e78ede2",
+      "source_bytes": 302672065
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2016_sih_cnv_nrbr001321186_104_29_111.csv",
+      "sha256": "e2eeae7fee326f1a4de987c5494abfb4d46a0142b9fbc7ad511a693bd50460c2",
+      "source_bytes": 2439,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2016"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2017_sih_cnv_nrbr001711186_104_29_111.csv",
+      "sha256": "b6149e6d03a857629ed84e5ad8e5310f7321d089ef6df6273bb19a18edca7eb3",
+      "source_bytes": 2438,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2017"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2018_sih_cnv_nrbr004835186_104_29_111.csv",
+      "sha256": "69ebfe7e3d960c7c84bce9ebe147d12d2d98f18a4e7a7b31f014b2b06983d72c",
+      "source_bytes": 2443,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2018"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2019_sih_cnv_nrbr004325186_104_29_111.csv",
+      "sha256": "c759fcf827686947265f01f597af259e1873d9bc1354bcaf74150ada78bbf391",
+      "source_bytes": 2447,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2019"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2020_sih_cnv_nrbr002522186_104_29_111.csv",
+      "sha256": "9cb09d04758b7a7274e5a629674ceb7014ffc23a5e90aea5d0a74f46b9694ce5",
+      "source_bytes": 2427,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2020"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2021_sih_cnv_nrbr003011186_104_29_111.csv",
+      "sha256": "474ecb906c3a9c547573c99777a0759a45231d6d4f4152475d5ad91f4317d6f6",
+      "source_bytes": 2431,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2021"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2022_sih_cnv_nrbr003122186_104_29_111.csv",
+      "sha256": "19d14dd30b3efeb99dabf316f1f56651931ffc829766b6715629ed95204502ff",
+      "source_bytes": 2444,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2022"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2023_sih_cnv_nrbr003558186_104_29_111.csv",
+      "sha256": "36022e68db54469fc4dcbbe0326339bded569ffd58ea263fe22cc23555d3017c",
+      "source_bytes": 2454,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2023"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2024_sih_cnv_nrbr003802186_104_29_111.csv",
+      "sha256": "d949cd4324d5dd763cb4bbc55bcc463582fdeac56bdc2ae2a2ac617d1678cd23",
+      "source_bytes": 2455,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2024"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/FEM_2025_sih_cnv_nrbr004153186_104_29_111.csv",
+      "sha256": "0dca8a41c26d1ea400785594d362c6464249a447bae389f6f1a8d2cdfbe090e9",
+      "source_bytes": 2465,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2025"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2016_sih_cnv_nrbr001430186_104_29_111.csv",
+      "sha256": "2bf61b387e8f1102fdabc7e6428987df99d075e65f7a035776423787aef0e417",
+      "source_bytes": 2441,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2016"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2017_sih_cnv_nrbr001604186_104_29_111.csv",
+      "sha256": "6c77f6b04d18588955418bb7b16f1d6d75247dfbec63e40b2a202fcdd9742e12",
+      "source_bytes": 2441,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2017"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2018_sih_cnv_nrbr004735186_104_29_111.csv",
+      "sha256": "bc5746bbc21615e4ecaf147f140698d2034e3dac2896f0918109bd60e9b83ebd",
+      "source_bytes": 2441,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2018"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2019_sih_cnv_nrbr004607186_104_29_111.csv",
+      "sha256": "09f4bf4a825cfee0fc10dbaee849f19cab15793e6c2aced2ce183adf3a4226fd",
+      "source_bytes": 2438,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2019"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2020_sih_cnv_nrbr002615186_104_29_111.csv",
+      "sha256": "778e37d0b181698be756bbc24c807207d3b72c7b9f378d505da82bc0342fa9ce",
+      "source_bytes": 2426,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2020"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2021_sih_cnv_nrbr002740186_104_29_111.csv",
+      "sha256": "4700eb698b2aaaf83ec3294624f82ffc529c929d3d6a79ffc0c90492d621b2d3",
+      "source_bytes": 2424,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2021"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2022_sih_cnv_nrbr003217186_104_29_111.csv",
+      "sha256": "8493aee245b2f7ee57fa9cf27fe0be139b13411c4bf1e106cdcbbc28cd160d17",
+      "source_bytes": 2442,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2022"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2023_sih_cnv_nrbr003500186_104_29_111.csv",
+      "sha256": "f991a6b35424bc686dbf12db9931728d076850622646b36760d32cc9fccf543f",
+      "source_bytes": 2449,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2023"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2024_sih_cnv_nrbr003848186_104_29_111.csv",
+      "sha256": "ffe068392c13f54d657c1527101d30dc75e96480f427738eff74920e0a1cdd0a",
+      "source_bytes": 2453,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2024"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "BRASIL TODO/MASC_2025_sih_cnv_nrbr004020186_104_29_111.csv",
+      "sha256": "af1ecc982902b9282083a8761160606ed03a814d3eeb542c159f336446ae94c0",
+      "source_bytes": 2457,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2025"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "FEM_SOLO_2015_sih_cnv_nrbr222927186_104_29_111(1).csv",
+      "sha256": "515e08512704f6c7d0209b8daa5d61743e6ce3ed01262b713762829a2cee3896",
+      "source_bytes": 2438,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Fem",
+        "Período:2015"
+      ]
+    },
+    {
+      "country": "Brazil",
+      "file": "Masc_SOLO2015_sih_cnv_nrbr222741186_104_29_111(1).csv",
+      "sha256": "6176bc0d73c51546adcb1fa513bbae9776eab5e40120e64df292cb99aba1268f",
+      "source_bytes": 2442,
+      "declared_download_date": "2026-09-20",
+      "header": [
+        " Morbidade Hospitalar do SUS - por local de residência - Brasil",
+        "Internações por Lista Morb  CID-10 e Faixa Etária 1",
+        "Capítulo CID-10: IX.  Doenças do aparelho circulatório",
+        "Faixa Etária 1: 20 a 29 anos, 30 a 39 anos, 40 a 49 anos, 50 a 59 anos, 60 a 69 anos, 70 a 79 anos, 80 anos e mais",
+        "Sexo: Masc",
+        "Período:2015"
+      ]
+    }
+  ],
+  "chile_flow": [
+    {
+      "year": 2015,
+      "all_source_rows": 1671054,
+      "chapter_IX": 129598,
+      "jointly_masked": 2926,
+      "other_ineligible_age": 3111,
+      "adult_unknown_sex": 1,
+      "eligible_chapter_IX": 123560,
+      "selected_with_varices": 76891,
+      "varices_I83": 8553,
+      "selected_without_varices": 68338,
+      "age_labels": {
+        "1 a 9": 981,
+        "10 a 19": 1914,
+        "20 a 29": 3083,
+        "30 a 39": 5342,
+        "40 a 49": 11293,
+        "50 a 59": 22285,
+        "60 a 69": 29330,
+        "70 a 79": 29412,
+        "80 a 89": 19360,
+        "90 y más": 3456,
+        "menor de un año": 216,
+        "*": 2926
+      },
+      "sex_labels": {
+        "MUJER": 57676,
+        "HOMBRE": 68995,
+        "INTERSEX (INDETERMINDADO)": 1,
+        "*": 2926
+      }
+    },
+    {
+      "year": 2016,
+      "all_source_rows": 1637265,
+      "chapter_IX": 127173,
+      "jointly_masked": 2380,
+      "other_ineligible_age": 2710,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 122083,
+      "selected_with_varices": 76241,
+      "varices_I83": 7797,
+      "selected_without_varices": 68444,
+      "age_labels": {
+        "1 a 9": 793,
+        "10 a 19": 1699,
+        "20 a 29": 2775,
+        "30 a 39": 5285,
+        "40 a 49": 10943,
+        "50 a 59": 21794,
+        "60 a 69": 29252,
+        "70 a 79": 29336,
+        "80 a 89": 19165,
+        "90 y más": 3533,
+        "menor de un año": 218,
+        "*": 2380
+      },
+      "sex_labels": {
+        "MUJER": 55932,
+        "HOMBRE": 68861,
+        "*": 2380
+      }
+    },
+    {
+      "year": 2017,
+      "all_source_rows": 1637150,
+      "chapter_IX": 130232,
+      "jointly_masked": 2988,
+      "other_ineligible_age": 2655,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 124589,
+      "selected_with_varices": 77765,
+      "varices_I83": 8319,
+      "selected_without_varices": 69446,
+      "age_labels": {
+        "1 a 9": 824,
+        "10 a 19": 1608,
+        "20 a 29": 2723,
+        "30 a 39": 5193,
+        "40 a 49": 10849,
+        "50 a 59": 21721,
+        "60 a 69": 29945,
+        "70 a 79": 30158,
+        "80 a 89": 20109,
+        "90 y más": 3891,
+        "menor de un año": 223,
+        "*": 2988
+      },
+      "sex_labels": {
+        "HOMBRE": 69923,
+        "MUJER": 57321,
+        "*": 2988
+      }
+    },
+    {
+      "year": 2018,
+      "all_source_rows": 1669602,
+      "chapter_IX": 133474,
+      "jointly_masked": 3697,
+      "other_ineligible_age": 2655,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 127122,
+      "selected_with_varices": 79874,
+      "varices_I83": 8633,
+      "selected_without_varices": 71241,
+      "age_labels": {
+        "1 a 9": 884,
+        "10 a 19": 1568,
+        "20 a 29": 2876,
+        "30 a 39": 5284,
+        "40 a 49": 10700,
+        "50 a 59": 22219,
+        "60 a 69": 30481,
+        "70 a 79": 31198,
+        "80 a 89": 20120,
+        "90 y más": 4244,
+        "menor de un año": 203,
+        "*": 3697
+      },
+      "sex_labels": {
+        "HOMBRE": 71281,
+        "MUJER": 58496,
+        "*": 3697
+      }
+    },
+    {
+      "year": 2019,
+      "all_source_rows": 1667180,
+      "chapter_IX": 134449,
+      "jointly_masked": 2930,
+      "other_ineligible_age": 2642,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 128877,
+      "selected_with_varices": 81786,
+      "varices_I83": 7391,
+      "selected_without_varices": 74395,
+      "age_labels": {
+        "1 a 9": 889,
+        "10 a 19": 1571,
+        "20 a 29": 2737,
+        "30 a 39": 5309,
+        "40 a 49": 10656,
+        "50 a 59": 21952,
+        "60 a 69": 31405,
+        "70 a 79": 32195,
+        "80 a 89": 19967,
+        "90 y más": 4656,
+        "menor de un año": 182,
+        "*": 2930
+      },
+      "sex_labels": {
+        "MUJER": 58516,
+        "HOMBRE": 73003,
+        "*": 2930
+      }
+    },
+    {
+      "year": 2020,
+      "all_source_rows": 1330477,
+      "chapter_IX": 112709,
+      "jointly_masked": 2646,
+      "other_ineligible_age": 2036,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 108027,
+      "selected_with_varices": 69663,
+      "varices_I83": 3539,
+      "selected_without_varices": 66124,
+      "age_labels": {
+        "1 a 9": 623,
+        "10 a 19": 1173,
+        "20 a 29": 2236,
+        "30 a 39": 4523,
+        "40 a 49": 9022,
+        "50 a 59": 18380,
+        "60 a 69": 26549,
+        "70 a 79": 26594,
+        "80 a 89": 17048,
+        "90 y más": 3675,
+        "menor de un año": 240,
+        "*": 2646
+      },
+      "sex_labels": {
+        "HOMBRE": 62668,
+        "MUJER": 47395,
+        "*": 2646
+      }
+    },
+    {
+      "year": 2021,
+      "all_source_rows": 1467062,
+      "chapter_IX": 124529,
+      "jointly_masked": 0,
+      "other_ineligible_age": 1897,
+      "adult_unknown_sex": 1,
+      "eligible_chapter_IX": 122631,
+      "selected_with_varices": 80503,
+      "varices_I83": 4778,
+      "selected_without_varices": 75725,
+      "age_labels": {
+        "1 A 4 AÑOS": 202,
+        "10 A 14 AÑOS": 489,
+        "15 A 19 AÑOS": 682,
+        "2 MESES A MENOS DE 1 AÑO": 116,
+        "20 A 24 AÑOS": 900,
+        "25 A 29 AÑOS": 1386,
+        "28 DIAS A 2 MES": 41,
+        "30 A 34 AÑOS": 2125,
+        "35 A 39 AÑOS": 2941,
+        "40 A 44 AÑOS": 4361,
+        "45 A 49 AÑOS": 6446,
+        "5 A 9 AÑOS": 329,
+        "50 A 54 AÑOS": 8556,
+        "55 A 59 AÑOS": 12423,
+        "60 A 64 AÑOS": 15010,
+        "65 A 69 AÑOS": 15906,
+        "70 A 74 AÑOS": 15286,
+        "75 A 79 AÑOS": 14381,
+        "80 A 84 AÑOS": 11159,
+        "85 A MAS": 11752,
+        "menor a 7 días": 26,
+        "7 A 27 DIAS": 12
+      },
+      "sex_labels": {
+        "1": 70952,
+        "2": 53576,
+        "3": 1
+      }
+    },
+    {
+      "year": 2022,
+      "all_source_rows": 1597118,
+      "chapter_IX": 136884,
+      "jointly_masked": 2804,
+      "other_ineligible_age": 2013,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 132067,
+      "selected_with_varices": 85848,
+      "varices_I83": 5977,
+      "selected_without_varices": 79871,
+      "age_labels": {
+        "1 a 9": 608,
+        "10 a 19": 1230,
+        "20 a 29": 2354,
+        "30 a 39": 5272,
+        "40 a 49": 10949,
+        "50 a 59": 21707,
+        "60 a 69": 34004,
+        "70 a 79": 32766,
+        "80 a 89": 20384,
+        "90 y más": 4631,
+        "menor de un año": 175,
+        "*": 2804
+      },
+      "sex_labels": {
+        "HOMBRE": 76249,
+        "MUJER": 57831,
+        "*": 2804
+      }
+    },
+    {
+      "year": 2023,
+      "all_source_rows": 1612267,
+      "chapter_IX": 143615,
+      "jointly_masked": 8646,
+      "other_ineligible_age": 1845,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 133124,
+      "selected_with_varices": 86396,
+      "varices_I83": 4897,
+      "selected_without_varices": 81499,
+      "age_labels": {
+        "1 a 9": 539,
+        "10 a 19": 1162,
+        "20 a 29": 2122,
+        "30 a 39": 4986,
+        "40 a 49": 10749,
+        "50 a 59": 21302,
+        "60 a 69": 35204,
+        "70 a 79": 34037,
+        "80 a 89": 20647,
+        "90 y más": 4077,
+        "menor de un año": 144,
+        "*": 8646
+      },
+      "sex_labels": {
+        "HOMBRE": 77214,
+        "MUJER": 57755,
+        "*": 8646
+      }
+    },
+    {
+      "year": 2024,
+      "all_source_rows": 1667349,
+      "chapter_IX": 151768,
+      "jointly_masked": 8951,
+      "other_ineligible_age": 2028,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 140789,
+      "selected_with_varices": 92646,
+      "varices_I83": 4915,
+      "selected_without_varices": 87731,
+      "age_labels": {
+        "50 a 59": 22153,
+        "10 a 19": 1316,
+        "70 a 79": 35894,
+        "80 a 89": 22514,
+        "40 a 49": 11177,
+        "90 y mï¿½s": 4702,
+        "60 a 69": 36998,
+        "*": 8951,
+        "20 a 29": 2106,
+        "30 a 39": 5245,
+        "menor de un aï¿½o": 126,
+        "1 a 9": 586
+      },
+      "sex_labels": {
+        "HOMBRE": 81866,
+        "MUJER": 60951,
+        "*": 8951
+      }
+    },
+    {
+      "year": 2025,
+      "all_source_rows": 1705514,
+      "chapter_IX": 156327,
+      "jointly_masked": 8702,
+      "other_ineligible_age": 2057,
+      "adult_unknown_sex": 0,
+      "eligible_chapter_IX": 145568,
+      "selected_with_varices": 96410,
+      "varices_I83": 4444,
+      "selected_without_varices": 91966,
+      "age_labels": {
+        "70 a 79": 37654,
+        "40 a 49": 10903,
+        "60 a 69": 38971,
+        "50 a 59": 22290,
+        "80 a 89": 23637,
+        "*": 8702,
+        "10 a 19": 1347,
+        "90 y mï¿½s": 4910,
+        "1 a 9": 585,
+        "30 a 39": 5194,
+        "20 a 29": 2009,
+        "menor de un aï¿½o": 125
+      },
+      "sex_labels": {
+        "HOMBRE": 84953,
+        "MUJER": 62671,
+        "*": 8702,
+        "INTERSEX (INDETERMINDADO)": 1
+      }
+    }
+  ],
+  "brazil_group_mapping": {
+    "PE": [
+      "Embolia pulmonar"
+    ],
+    "I80_I82": [
+      "Flebite tromboflebite embolia e trombose venosa"
+    ],
+    "Varices_I83": [
+      "Veias varicosas das extremidades inferiores"
+    ],
+    "Coronary": [
+      "Infarto agudo do miocárdio",
+      "Outras doenças isquêmicas do coração"
+    ],
+    "Cerebrovascular": [
+      "Hemorragia intracraniana",
+      "Infarto cerebral",
+      "Acid vascular cerebr não espec hemorrág ou isq",
+      "Outras doenças cerebrovasculares"
+    ],
+    "Other_arterial": [
+      "Arteroesclerose",
+      "Outras doenças vasculares periféricas",
+      "Embolia e trombose arteriais",
+      "Outras doenças das artérias arteríolas e capil"
+    ]
+  },
+  "coverage": {
+    "Chile": [
+      2015,
+      2025
+    ],
+    "Brazil": [
+      2015,
+      2025
+    ]
+  },
+  "limitations": [
+    "This extraction stage does not fit rates; see 00_population.py and 03_rates.py.",
+    "Brazil download date supplied by author, not encoded in CSV.",
+    "IC95% nominal, based on discharge counts; does not account for repeat admissions or coding/coverage uncertainty."
+  ]
+}
