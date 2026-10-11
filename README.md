@@ -40,6 +40,8 @@ python run_pipeline.py
 
 This command uses the included aggregate counts and INE population denominators. It refits the models, regenerates numeric table sources, creates Figures 1, 2 and S1 with confidence intervals, and compares the estimates with the reference outputs. Results are written to `results/`. See `results/validation.json` for computational checks. No external account, API or network is required after dependency installation.
 
+Tested on: Ubuntu 24.04 LTS and Python 3.12.10. Approximate run time: 2m1.977s.
+
 ## Rebuild from original files
 
 1. Put the eleven Chilean source datasets in one input folder using the packaging and names listed in `docs/SOURCES.csv`: `CHILE(1).zip` contains 2015–2023; the 2024 and 2025 CSV files are separate. Do not substitute an older compiled dataset.
