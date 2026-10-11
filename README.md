@@ -1,4 +1,5 @@
 # Sex differences in the arterial and venous composition of hospitalizations across adulthood
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23306109.svg)](https://doi.org/10.5281/zenodo.23306109)
 
 Reproducibility package for the article:
 
@@ -101,7 +102,7 @@ Code is released under the MIT License (see `LICENSE`). The license covers the c
 
 ## How to cite
 
-Please cite the article above and this repository release ([TODO: Zenodo DOI]), as well as DEIS, DATASUS and INE as source custodians. Citation metadata are in `CITATION.cff`.
+Please cite the article above and this repository release (https://doi.org/10.5281/zenodo.23306109), as well as DEIS, DATASUS and INE as source custodians. Citation metadata are in `CITATION.cff`.
 
 ## Use of AI tools
 

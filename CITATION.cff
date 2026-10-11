@@ -4,10 +4,9 @@ type: software
 title: "Reproducibility package: Sex Differences in the Arterial and Venous Composition of Hospitalizations Across Adulthood in Chile and Brazil, 2015-2025"
 version: "1.0.0"
 license: MIT
-# Complete after the first release:
-# date-released: "YYYY-MM-DD"
-# doi: 10.5281/zenodo.XXXXXXX
-# repository-code: "https://github.com/USER/REPOSITORY"
+date-released: "2026-10-11"
+doi: 10.5281/zenodo.23306109
+repository-code: "https://github.com/pablofbaez/circulation-chile-brazil-2015-2025"
 authors:
   - family-names: "Carrasco-Wong"
     given-names: "Ivo"
