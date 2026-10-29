@@ -8,4 +8,4 @@ def run(name,*args):
  subprocess.run([sys.executable,str(R/'scripts'/name),*map(str,args)],check=True)
 if a.raw_dir:run('01_extract.py','--inputs',a.raw_dir.resolve(),'--output',R/'data/processed')
 if a.ine:run('00_population.py',a.ine.resolve())
-for name in ['02_composition.py','03_rates.py','04_secondary.py','05_figures.py','07_tables.py','06_validate.py']:run(name)
+for name in ['02_composition.py','03_rates.py','04_secondary.py','05_figures.py','07_tables.py','08_other_arterial_posthoc.py','09_graphical_abstract.py','06_validate.py']:run(name)
