@@ -22,6 +22,8 @@
 | A18 | Separate sex interactions in covariate-adjusted logistic model | A18.csv |
 | A19 | Narrow diagnostic / I83 sensitivity ORs | A19_Chile.csv; A19_Brazil.csv |
 | A20 | Observed counts, age × sex × diagnostic group × country | A20.csv |
+| A21 | Post hoc Chile I70–I79 component pooled female/male rate ratios | A21.csv |
+| A22 | Post hoc Chile aortic/non-aortic case–case ORs and MH summaries | A22.csv |
 | Figure 1 | Main age-specific territorial case–case ORs | ../figures/Figura_1.pdf |
 | Figure 2 | Main year-adjusted venous/arterial RRs, scaled t intervals | ../figures/Figura_2.pdf |
 | Figure S1 | Venous shares, Wilson intervals | ../figures/Figura_S1.pdf; ../S1_proportions_Wilson.csv |

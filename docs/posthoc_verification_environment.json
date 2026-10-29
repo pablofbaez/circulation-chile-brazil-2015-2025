@@ -1,0 +1,12 @@
+{
+  "verified_on": "2026-10-18",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "openpyxl": "3.1.5"
+  },
+  "mode": "Full aggregate-based run in clean directory; all 12 validation groups PASS"
+}

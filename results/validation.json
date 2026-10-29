@@ -72,5 +72,24 @@
   {
     "check": "28 pooled rate-ratio identities",
     "status": "PASS"
+  },
+  {
+    "check": "Post hoc annual cell reconciliation and component totals",
+    "status": "PASS",
+    "other_arterial_n": 87899,
+    "venous_n": 109820
+  },
+  {
+    "check": "Post hoc reproduces all A3 coronary/other-arterial ORs and CIs plus MH summaries",
+    "status": "PASS",
+    "estimates": 16
+  },
+  {
+    "check": "A21 56 displayed RRs and A22 32 displayed OR/CI triplets",
+    "status": "PASS"
+  },
+  {
+    "check": "Post hoc 28 pooled RR_venous/RR_comparator identities",
+    "status": "PASS"
   }
 ]

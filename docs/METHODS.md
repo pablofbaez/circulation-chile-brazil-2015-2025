@@ -55,3 +55,23 @@ Masked-record bounds use 3,325 unallocated selected venous records. For each age
 ## Limits
 
 No incidence, first-event identification, individual risk prediction, causal hormonal mechanism, score-performance validation or population rate for Brazil is estimated. Age strata are cross-sectional. All P values and CIs are nominal. Dispersion scaling does not replace clustered patient inference. Source coding and completeness were not externally validated by this pipeline.
+
+## Post hoc decomposition of other arterial diagnoses
+
+The exploratory extension requested on 7 October 2026 uses
+`chile_detailed_diagnoses.csv` and the same pooled 2015–2025 INE population
+exposures. It partitions I70–I79 into I70/I73, I71, I72, I74, and I77–I79.
+Every annual sex/age cell must reconcile to the original other-arterial
+count; nonzero codes outside this partition cause an error. Comparators
+are I71, I70–I79 excluding I71, all I70–I79, and coronary I20–I25. Venous
+counts always include I26 and I80–I82 and exclude I83.
+
+A21 uses pooled discharge rates and female-to-male rate ratios; these RRs
+are not year-adjusted, and no confidence intervals are assigned to them.
+A22 uses age-specific log-Wald case–case OR intervals and the same seven-age
+Mantel–Haenszel/RBG estimator defined above. At a fixed age, pooled
+RR_venous / RR_comparator equals the case–case OR because the sex-specific
+population exposures cancel. The age-adjusted MH OR must not be obtained
+by dividing separately standardized rate ratios. No zero-cell correction
+is applied; an observed zero causes explicit failure. All these results
+describe hospital-discharge episodes, not disease incidence or mechanisms.

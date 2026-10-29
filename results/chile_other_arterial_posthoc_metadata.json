@@ -1,0 +1,61 @@
+{
+  "analysis": "Post hoc Chile I70–I79 decomposition; not prespecified",
+  "period": "2015–2025",
+  "ages": [
+    "20–29",
+    "30–39",
+    "40–49",
+    "50–59",
+    "60–69",
+    "70–79",
+    "≥80"
+  ],
+  "unit": "Discharge episodes; repeat admissions retained",
+  "venous_codes": [
+    "I26",
+    "I80",
+    "I81",
+    "I82"
+  ],
+  "component_codes": {
+    "I70_I73": [
+      "I70",
+      "I73"
+    ],
+    "I71": [
+      "I71"
+    ],
+    "I72": [
+      "I72"
+    ],
+    "I74": [
+      "I74"
+    ],
+    "I77_I79": [
+      "I77",
+      "I78",
+      "I79"
+    ]
+  },
+  "rate_estimator": "Sum discharges / sum annual INE midyear populations; per 100000 population-years",
+  "rate_ratio": "Pooled female-to-male rate ratio; not year-adjusted; no RR CIs assigned",
+  "odds_estimator": "Female-to-male case–case OR; age-specific log-Wald 95% CI; age-adjusted MH with RBG variance",
+  "zero_cell_policy": "Fail if an OR cell is zero; no continuity correction",
+  "totals": {
+    "I70_I73": 17604,
+    "I71": 17436,
+    "I72": 7212,
+    "I74": 16759,
+    "I77_I79": 28888,
+    "Venous": 109820,
+    "Other_arterial_excluding_I71": 70463,
+    "Other_arterial": 87899,
+    "Coronary": 301165
+  },
+  "inputs": [
+    "data/processed/chile_detailed_diagnoses.csv",
+    "data/processed/denominadores_INE_2015_2025.csv",
+    "data/processed/recuentos_por_ano_sexo_edad_diagnostico.csv"
+  ],
+  "limitations": "No incidence, causal inference, patient linkage, or correction for correlated readmissions; nominal OR intervals."
+}
