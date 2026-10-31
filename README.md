@@ -1,9 +1,9 @@
-# Sex differences in the arterial and venous composition of hospitalizations across adulthood
+# The venous component of women’s vascular hospitalizations across adulthood
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23306108.svg)](https://doi.org/10.5281/zenodo.23306108)
 
 Reproducibility package for the article:
 
-> Carrasco-Wong I, Bertini A, Baez P, Amador C, Gutiérrez J, Rotarou E, Díaz-Navarro R, Illanes SE, Chiarello DI. **Sex Differences in the Arterial and Venous Composition of Hospitalizations Across Adulthood in Chile and Brazil, 2015–2025.** [TODO: journal, year, DOI once available]
+> Carrasco-Wong I, Bertini A, Baez P, Amador C, Gutiérrez J, Rotarou E, Díaz-Navarro R, Illanes SE, Chiarello DI. **The Venous Component of Women’s Vascular Hospitalizations Across Adulthood: Chile and Brazil, 2015–2025.** [TODO: journal, year, DOI once available]
 
 The reference tables used for regression checks are recorded in `docs/manuscript_tables_reference.json`, together with the SHA-256 of the manuscript version they were taken from.
 
